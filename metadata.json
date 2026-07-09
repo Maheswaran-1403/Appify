@@ -1,0 +1,6 @@
+{
+  "name": "AgentForge",
+  "description": "An immersive AI multi-agent software factory simulator that orchestrates 40+ specialized agents to automatically design, write, test, document, and deploy fully functional application concepts from a single prompt.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
